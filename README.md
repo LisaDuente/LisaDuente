@@ -1,35 +1,44 @@
 # About me
 
-Hey I'm Lisa and currently in training to become a **java software developer**! My interests lie in backend development and I would like to learn more about cloud databases (as well as DBaaS) and NoSQL databases. I loved working with MySQL during my last course and I’m currently working on an application to put together everything we learned so far in school.
+Hey I'm Lisa and currently in training to become a **java software developer**! My interests lie in backend development and I would like to learn more about cloud databases (as well as DBaaS) and NoSQL databases. I loved working with MySQL during my last course and I’m currently working on an application to put together everything we learned in school so far.
 
 I will graduate in summer 2023 and I am currently looking for an **internship in Stockholm**! 
 
 ### Frameworks and programs I worked with:
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 - Maven
 - JUnit
 - JDBC
-- IntelliJ
 - Pico8
-- Unity
 - Aseprite
-- MySQL
+
+### Things I would like to learn:
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ### Programming languages I’m interested in:
-- Python
-- C#
-- LUA
-- Java
-- JavaScript
-- SQL
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Java]( 	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ## Spare Time Projects
 
-In my spare time I like to create video games! That’s why I tried to get a basic understanding of how Unity workflows could look like and created the Top-Down-RPG-Project to make a prototype of a top down rpg. 
+In my spare time I like to create video games! That’s why I tried to get a basic understanding of how Unity workflows could look like and created the [Top-Down-RPG-Project](https://github.com/LisaDuente/Top-Down-RPG-Projekt) to make a prototype of a top down rpg. 
 ![Mädel_2](https://user-images.githubusercontent.com/88434438/156877478-ae2c7f64-e811-4e34-b4aa-5b4fe2d23a83.gif)
+
 
 ## ![tchuptchup](https://user-images.githubusercontent.com/88434438/156878205-7b7ce8cb-2aa0-4d52-9820-bad80efed6e8.png)
 
-Over the holidays in December @gschup and I built a little game in Pico8 to have a basic structure to work with, if we ever wanted to partake in a game jam. I was responsible for the artworks and implemented the sprite detection, die animation, the background and did the level design as well as the artworks. Feel free to check out our project "TchupTchup" rigth [here ](https://du-ente.itch.io/tchup-tchup). 
+Over the holidays in December @gschup and I built a little game in Pico8 to have a basic structure to work with, if we ever wanted to partake in a game jam. I was responsible for the artworks and implemented the sprite detection, the animations, the background and did the level design as well as the artworks. Feel free to check out our game ["TchupTchup"](https://du-ente.itch.io/tchup-tchup)!
 
 ## ![Title](https://user-images.githubusercontent.com/88434438/156877907-3868420e-5bff-42fb-9a7f-e5df602e5524.png)
 
