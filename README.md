@@ -38,5 +38,6 @@ Over the holidays in December @gschup and I built a little game in Pico8 to have
 
 ## ![Title](https://user-images.githubusercontent.com/88434438/156877907-3868420e-5bff-42fb-9a7f-e5df602e5524.png)
 
-I'm also proud to present the results of the first game jam I took part in! Working together with @gschup and @johanhelsing was really fun! This time I only did the artwork, because I'm not familiar with rust and bevy! Please enjoy ["A Janitors Nightmare"](https://gorktheork.itch.io/bevy-jam-1-submission)
+I'm also proud to present the results of the first game jam I took part in! Working together with @gschup and @johanhelsing was really fun! This time I only did the artwork, because I'm not familiar with rust and bevy! Please enjoy ["A Janitors Nightmare"](https://gorktheork.itch.io/bevy-jam-1-submission)!
+
 
