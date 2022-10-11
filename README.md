@@ -1,6 +1,6 @@
 # About me
 
-Hey I'm Lisa and currently in training to become a **java software developer**! My interests lie in backend development and I would like to learn more about cloud databases (as well as DBaaS) and NoSQL databases. I loved working with MySQL during my last course and I’m currently working on an application to put together everything we learned in school so far.
+Hey I'm Lisa and currently in training to become a **java software developer**! My interests lie in backend development and I would like to learn more about cloud databases (as well as DBaaS) and NoSQL databases. 
 
 I will graduate in summer 2023 and I am currently working as an intern at Redmind! 
 
