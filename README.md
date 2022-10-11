@@ -34,9 +34,7 @@ I will graduate in summer 2023 and I am currently working as an intern at Redmin
 
 ## Spare Time Projects
 
-In my spare time I like to create video games! That’s why I tried to get a basic understanding of how Unity workflows could look like and created the [Top-Down-RPG-Project](https://github.com/LisaDuente/Top-Down-RPG-Projekt) to make a prototype of a top down rpg. 
-![Mädel_2](https://user-images.githubusercontent.com/88434438/156877478-ae2c7f64-e811-4e34-b4aa-5b4fe2d23a83.gif)
-
+In my spare time I like to create video games!
 
 ## ![tchuptchup](https://user-images.githubusercontent.com/88434438/156878205-7b7ce8cb-2aa0-4d52-9820-bad80efed6e8.png)
 
