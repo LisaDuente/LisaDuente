@@ -2,7 +2,7 @@
 
 Hey I'm Lisa and currently in training to become a **java software developer**! My interests lie in backend development and I would like to learn more about cloud databases (as well as DBaaS) and NoSQL databases. 
 
-I will graduate in summer 2023 and I am currently working as an intern at Redmind! 
+I will graduate in summer 2023! 
 
 ### Frameworks and programs I worked with:
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
