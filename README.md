@@ -1,8 +1,8 @@
 # About me
 
-Hey I'm Lisa and currently in training to become a **java software developer**! My interests lie in backend development and I would like to learn more about cloud databases (as well as DBaaS) and NoSQL databases. 
+Hey I'm Lisa and currently in working as an **Integration Developer**! My interests lie in backend development and I would like to learn more about cloud databases (as well as DBaaS) and NoSQL databases. 
 
-I will graduate in summer 2023! 
+I'm a certified Java System Developer. 
 
 ### Frameworks and programs I worked with:
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -25,10 +25,10 @@ I will graduate in summer 2023!
 ![Java]( 	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Programming languages I tested or like to work with:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
