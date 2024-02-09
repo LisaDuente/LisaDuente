@@ -1,6 +1,6 @@
 # About me
 
-Hey I'm Lisa and currently in working as an **Integration Developer**! My interests lie in backend development and I would like to learn more about cloud databases (as well as DBaaS) and NoSQL databases. 
+Hey I'm Lisa and I am currently working as an **Integration Engineer** at Loomis Sverige AB! My interests lie in backend development and I would like to learn more about cloud databases (as well as DBaaS) and NoSQL databases. 
 
 I'm a certified Java System Developer. 
 
